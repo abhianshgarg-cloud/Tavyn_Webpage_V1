@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 133.905 65.55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Connector" d="M0.255058 65.55V33.2293C2.13677 5.46578 11.405 -0.8491 39.0893 0.403588H133.905" stroke="url(#paint0_linear_0_71)" stroke-width="0.510116"/>
+<defs>
+<linearGradient id="paint0_linear_0_71" x1="85.0716" y1="-7.73969" x2="33.0036" y2="86.3811" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFBE00"/>
+<stop offset="1" stop-color="#FF1E00"/>
+</linearGradient>
+</defs>
+</svg>

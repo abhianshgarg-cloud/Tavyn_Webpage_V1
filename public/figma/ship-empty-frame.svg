@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 159.156 160.176" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Empty Blog Frame">
+<rect width="159.156" height="160.176" rx="20.4046" fill="var(--fill-0, #0B0B0B)"/>
+<circle id="Blog Highlight" cx="18.3643" cy="18.3643" r="2.04046" fill="url(#paint0_linear_0_69)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_69" x1="18.3643" y1="16.3238" x2="18.3643" y2="20.4048" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF0000"/>
+<stop offset="1" stop-color="#FFC100"/>
+</linearGradient>
+</defs>
+</svg>

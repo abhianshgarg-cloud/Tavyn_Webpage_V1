@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 10.7561 10.756" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Loading Circle" d="M6.39656 0.551153C6.13124 0.510193 5.85907 0.488909 5.58171 0.488909C2.76904 0.488909 0.488909 2.67783 0.488909 5.378C0.488909 8.07817 2.76904 10.2671 5.58171 10.2671C7.68469 10.2671 9.48997 9.04343 10.2671 7.29733" stroke="url(#paint0_linear_0_20)" stroke-width="0.977818" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear_0_20" x1="5.378" y1="0.488909" x2="5.378" y2="10.2671" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF0000"/>
+<stop offset="1" stop-color="#FF9900"/>
+</linearGradient>
+</defs>
+</svg>

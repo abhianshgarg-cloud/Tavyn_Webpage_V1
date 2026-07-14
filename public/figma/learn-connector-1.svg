@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 16.1226 105.096" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Connector Line">
+<line id="Line 1" x1="0.299876" x2="0.299876" y2="95.9605" stroke="var(--stroke-0, #1B1B1B)" stroke-width="0.599753"/>
+<line id="Line 2" x1="0.150045" y1="95.7008" x2="15.9726" y2="104.836" stroke="var(--stroke-0, #1B1B1B)" stroke-width="0.599753"/>
+<line id="Line 3" x1="0.150045" y1="59.2546" x2="15.9726" y2="68.3898" stroke="var(--stroke-0, #1B1B1B)" stroke-width="0.599753"/>
+<line id="Line 4" x1="0.150045" y1="20.1319" x2="15.9726" y2="29.2671" stroke="var(--stroke-0, #1B1B1B)" stroke-width="0.599753"/>
+</g>
+</svg>

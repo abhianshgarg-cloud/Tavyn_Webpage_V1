@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 19.1921 19.1921" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Symbol">
+<ellipse id="Background" cx="9.59605" cy="9.59605" rx="9.59605" ry="9.59605" fill="var(--fill-0, #3A3D69)" fill-opacity="0.3"/>
+<g id="Search">
+<path id="Icon" d="M14.9941 14.9938L12.3852 12.3849M13.7946 8.9963C13.7946 11.6462 11.6464 13.7943 8.99656 13.7943C6.34668 13.7943 4.19854 11.6462 4.19854 8.9963C4.19854 6.34642 6.34668 4.19827 8.99656 4.19827C11.6464 4.19827 13.7946 6.34642 13.7946 8.9963Z" stroke="var(--stroke-0, #3A3D69)" stroke-width="1.91921" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

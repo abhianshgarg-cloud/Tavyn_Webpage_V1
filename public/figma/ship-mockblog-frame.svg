@@ -1,0 +1,37 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 319.332 99.9827" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame" clip-path="url(#clip0_0_48)">
+<rect width="319.332" height="99.9827" fill="#989177" fill-opacity="0.05"/>
+<path id="Blog Image Background" d="M319.332 0H0V99.9827H319.332V0Z" fill="var(--fill-0, #989177)" fill-opacity="0.05"/>
+<g id="Blog Image">
+<path id="Vector" d="M159.946 85.6997C179.949 85.6997 196.164 69.4843 196.164 49.4815C196.164 29.4787 179.949 13.2633 159.946 13.2633C139.943 13.2633 123.728 29.4787 123.728 49.4815C123.728 69.4843 139.943 85.6997 159.946 85.6997Z" fill="var(--fill-0, #CCBEA5)" fill-opacity="0.5"/>
+<g id="Group">
+<path id="Vector_2" d="M134.643 41.3968L159.839 36.6727L185.034 41.3968V61.868L159.839 57.1438L134.643 61.868V41.3968Z" fill="var(--fill-0, #2E4636)"/>
+<path id="Vector_3" d="M136.219 42.6564L158.579 38.5622V55.884L136.219 60.2931V42.6564Z" fill="var(--fill-0, #F4F1EC)"/>
+<path id="Vector_4" d="M183.46 42.6564L161.099 38.5622V55.884L183.46 60.2931V42.6564Z" fill="var(--fill-0, #F4F1EC)"/>
+<path id="Vector_5" d="M139.368 46.1204L155.115 43.9158" stroke="var(--stroke-0, #3E6250)" stroke-width="1.25976" stroke-linecap="round"/>
+<path id="Vector_6" d="M139.368 49.2703L155.115 47.0658" stroke="var(--stroke-0, #3E6250)" stroke-width="1.25976" stroke-linecap="round"/>
+<path id="Vector_7" d="M139.368 52.4195L155.115 50.215" stroke="var(--stroke-0, #3E6250)" stroke-width="1.25976" stroke-linecap="round"/>
+<path id="Vector_8" d="M164.563 43.9158L180.31 46.1204" stroke="var(--stroke-0, #3E6250)" stroke-width="1.25976" stroke-linecap="round"/>
+<path id="Vector_9" d="M164.563 47.0658L180.31 49.2703" stroke="var(--stroke-0, #3E6250)" stroke-width="1.25976" stroke-linecap="round"/>
+<path id="Vector_10" d="M164.563 50.215L180.31 52.4195" stroke="var(--stroke-0, #3E6250)" stroke-width="1.25976" stroke-linecap="round"/>
+</g>
+<g id="Group_2">
+<path id="Vector_11" d="M186.941 36.7925C191.561 38.0305 196.311 35.2886 197.549 30.6683C198.787 26.048 196.045 21.2989 191.424 20.0609C186.804 18.8229 182.055 21.5648 180.817 26.1851C179.579 30.8054 182.321 35.5545 186.941 36.7925Z" stroke="var(--stroke-0, #C97B4A)" stroke-width="2.20459"/>
+<path id="Vector_12" d="M193.414 35.7552L198.758 45.0126" stroke="var(--stroke-0, #C97B4A)" stroke-width="2.51953" stroke-linecap="round"/>
+</g>
+<path id="Vector_13" d="M111.13 70.11C111.652 70.11 112.075 69.687 112.075 69.1652C112.075 68.6434 111.652 68.2203 111.13 68.2203C110.608 68.2203 110.185 68.6434 110.185 69.1652C110.185 69.687 110.608 70.11 111.13 70.11Z" fill="var(--fill-0, #C97B4A)"/>
+<path id="Vector_14" d="M115.854 72.9442C116.202 72.9442 116.484 72.6622 116.484 72.3143C116.484 71.9665 116.202 71.6845 115.854 71.6845C115.506 71.6845 115.224 71.9665 115.224 72.3143C115.224 72.6622 115.506 72.9442 115.854 72.9442Z" fill="var(--fill-0, #3E6250)"/>
+<path id="Vector_15" d="M207.187 71.5271C207.621 71.5271 207.974 71.1746 207.974 70.7398C207.974 70.3049 207.621 69.9524 207.187 69.9524C206.752 69.9524 206.399 70.3049 206.399 70.7398C206.399 71.1746 206.752 71.5271 207.187 71.5271Z" fill="var(--fill-0, #2E4636)"/>
+</g>
+<circle id="Blog Highlight" cx="17.344" cy="15.3037" r="2.04046" transform="rotate(90 17.344 15.3037)" fill="url(#paint0_linear_0_48)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_48" x1="17.344" y1="13.2632" x2="17.344" y2="17.3442" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF0000"/>
+<stop offset="1" stop-color="#FFC100"/>
+</linearGradient>
+<clipPath id="clip0_0_48">
+<rect width="319.332" height="99.9827" fill="white"/>
+</clipPath>
+</defs>
+</svg>

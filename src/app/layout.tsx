@@ -1,0 +1,35 @@
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import "./globals.css";
+
+const inter = Inter({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+  variable: "--font-inter",
+  display: "swap",
+});
+
+export const metadata: Metadata = {
+  title: "Tavyn — One agent. Five steps. Start to finish.",
+  description: "You run the SaaS. Tavyn runs the SEO.",
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    // suppressHydrationWarning: the beforeInteractive script sets --section-scale on <html>
+    // before hydration, so its style attribute intentionally differs from the server HTML.
+    <html lang="en" className={inter.variable} suppressHydrationWarning>
+      <body>
+        {/* Set the section scale synchronously, before the sections below are parsed/painted,
+            so scaled pages (hero, waitlist) don't flash in at scale 1 and then snap. As the
+            first body node, this inline script runs before any section paints. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{document.documentElement.style.setProperty('--section-scale', window.innerHeight/780)}catch(e){}`,
+          }}
+        />
+        {children}
+      </body>
+    </html>
+  );
+}
